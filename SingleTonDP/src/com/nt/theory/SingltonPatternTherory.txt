@@ -1,1 +1,2 @@
 //Theory
+Que: wt is singleton pattern?
